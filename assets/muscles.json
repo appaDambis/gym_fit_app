@@ -1,0 +1,9 @@
+[
+    {"muscle": "Back", "image": "assets/img/back.jpg"},
+    {"muscle": "Chest", "image": "assets/img/chest.jpg"},
+    {"muscle": "Biceps", "image": "assets/img/biceps.jpg"},
+    {"muscle": "Triceps", "image": "assets/img/triceps.jpg"},
+    {"muscle": "Shoulders", "image": "assets/img/shoulders.jpg"},
+    {"muscle": "Legs", "image": "assets/img/legs.jpg"},
+    {"muscle": "Abs", "image": "assets/img/abs.jpg"}
+]
