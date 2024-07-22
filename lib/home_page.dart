@@ -3,10 +3,12 @@ import 'dart:io';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
+import 'package:geolocator/geolocator.dart';
 import 'package:gym_app/cardio/cardio_page.dart';
 import 'package:gym_app/exercises/muscle_list_page.dart';
 import 'package:gym_app/login/login_page.dart';
 import 'package:gym_app/meals/recipe_page.dart';
+import 'package:gym_app/nearByGym/nearByGymPage.dart';
 import 'package:gym_app/schedule/workout_schedule_page.dart';
 import 'package:image_picker/image_picker.dart';
 
@@ -260,7 +262,42 @@ class _HomePageState extends State<HomePage> {
           ],
         ),
       ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () async {
+          bool permissionGranted = await _requestLocationPermission();
+          if (permissionGranted) {
+            Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => NearbyGymsPage()),
+            );
+          }
+        },
+        child: Icon(Icons.location_on),
+        backgroundColor: Colors.red,
+      ),
     );
+  }
+
+  Future<bool> _requestLocationPermission() async {
+    LocationPermission permission = await Geolocator.checkPermission();
+    if (permission == LocationPermission.denied) {
+      permission = await Geolocator.requestPermission();
+      if (permission == LocationPermission.denied) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('Location permission is denied')),
+        );
+        return false;
+      }
+    }
+
+    if (permission == LocationPermission.deniedForever) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Location permissions are permanently denied')),
+      );
+      return false;
+    }
+
+    return true;
   }
 
   Widget _buildDrawerItem(IconData icon, String title, VoidCallback onTap) {
