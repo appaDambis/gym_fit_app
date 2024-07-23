@@ -27,7 +27,7 @@ class _NearbyGymsPageState extends State<NearbyGymsPage> {
       Position position = await getUserLocation();
       print('Current Position: ${position.latitude}, ${position.longitude}');
 
-      final apiKey = 'AIzaSyBRJiM8_hDA2nlPPmBi5tNDIpXW1aHlZiA';
+      final apiKey = 'Your_API_Key';
       final url = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json'
           '?location=${position.latitude},${position.longitude}'
           '&radius=1500&type=gym&key=$apiKey';
