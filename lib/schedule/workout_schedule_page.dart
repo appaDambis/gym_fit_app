@@ -23,14 +23,14 @@ class WorkoutSchedulePage extends StatelessWidget {
         PageView.builder(
           itemCount: WorkoutData.days.length,
           itemBuilder: (context, index) {
-            return _buildWorkoutDayCard(index);
+            return buildWorkoutDayCard(index);
           },
         ),
       ]),
     );
   }
 
-  Widget _buildWorkoutDayCard(int index) {
+  Widget buildWorkoutDayCard(int index) {
     return Center(
       child: Padding(
         padding: const EdgeInsets.all(5.0),
@@ -39,8 +39,8 @@ class WorkoutSchedulePage extends StatelessWidget {
           child: Stack(
             alignment: Alignment.center,
             children: [
-              _buildBackgroundImage(index),
-              _buildWorkoutDayInfo(index),
+              buildBackgroundImage(index),
+              buildWorkoutDayInfo(index),
             ],
           ),
         ),
@@ -48,7 +48,7 @@ class WorkoutSchedulePage extends StatelessWidget {
     );
   }
 
-  Widget _buildBackgroundImage(int index) {
+  Widget buildBackgroundImage(int index) {
     return Image.asset(
       WorkoutData.images[index],
       height: double.infinity,
@@ -57,7 +57,7 @@ class WorkoutSchedulePage extends StatelessWidget {
     );
   }
 
-  Widget _buildWorkoutDayInfo(int index) {
+  Widget buildWorkoutDayInfo(int index) {
     return Container(
       padding: const EdgeInsets.all(20),
       alignment: Alignment.center,
@@ -67,16 +67,33 @@ class WorkoutSchedulePage extends StatelessWidget {
           Text(
             WorkoutData.days[index],
             style: const TextStyle(
-              fontSize: 30,
               fontWeight: FontWeight.bold,
-              color: Color.fromARGB(255, 194, 189, 189),
+              fontSize: 25,
+              color: Colors.white,
+              shadows: [
+                Shadow(
+                  blurRadius: 8.0,
+                  color: Colors.black,
+                  offset: Offset(1.0, 1.0),
+                ),
+              ],
             ),
             textAlign: TextAlign.center,
           ),
           const SizedBox(height: 10),
           Text(
-            _getWorkoutRoutine(index),
-            style: const TextStyle(fontSize: 18, color: Colors.white),
+            getWorkoutRoutine(index),
+            style: const TextStyle(
+              color: Colors.white,
+              fontSize: 16,
+              shadows: [
+                Shadow(
+                  blurRadius: 8.0,
+                  color: Colors.black,
+                  offset: Offset(1.0, 1.0),
+                ),
+              ],
+            ),
             textAlign: TextAlign.center,
           ),
         ],
@@ -84,7 +101,7 @@ class WorkoutSchedulePage extends StatelessWidget {
     );
   }
 
-  String _getWorkoutRoutine(int index) {
+  String getWorkoutRoutine(int index) {
     switch (index) {
       case 0:
         return 'Back exercises like pull-ups, rows, and bicep curls.';

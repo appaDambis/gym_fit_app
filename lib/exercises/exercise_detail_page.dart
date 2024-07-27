@@ -20,7 +20,7 @@ class ExerciseDetailPage extends StatelessWidget {
             child: Opacity(
               opacity: 0.7,
               child: Image.asset(
-                'assets/img/background2.jpg', // Background image path
+                'assets/img/background2.jpg',
                 fit: BoxFit.cover,
               ),
             ),

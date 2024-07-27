@@ -1,10 +1,10 @@
 class WorkoutData {
   static List<String> days = [
-    'Monday - Back Biceps',
-    'Tuesday - Chest Triceps',
-    'Wednesday - Shoulder Abs',
-    'Thursday - Back Biceps',
-    'Friday - Chest Triceps',
+    'Monday - Back & Biceps',
+    'Tuesday - Chest & Triceps',
+    'Wednesday - Shoulder & Abs',
+    'Thursday - Back & Biceps',
+    'Friday - Chest & Triceps',
     'Saturday - Legs',
   ];
 

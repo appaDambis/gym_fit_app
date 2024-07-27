@@ -38,7 +38,7 @@ class _HomePageState extends State<HomePage> {
     if (_user != null) {
       _profileImageUrl = _user!.photoURL;
     } else {
-      _logout(); // Redirect to login page if user is not logged in
+      _logout();
     }
   }
 
@@ -325,7 +325,6 @@ class _HomePageState extends State<HomePage> {
         return;
       }
       try {
-        // Upload the image to Firebase Storage
         Reference ref =
             _storage.ref().child('profile_pictures').child('${_user!.uid}.jpg');
         UploadTask uploadTask = ref.putFile(imageFile);

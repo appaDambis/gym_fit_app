@@ -1,5 +1,7 @@
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:gym_app/home_page.dart';
 import 'package:gym_app/login/login_page.dart';
 
 void main() async {
@@ -21,7 +23,22 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xff221E3A)),
         useMaterial3: false,
       ),
-      home: LoginPage(),
+      home: _handleAuth(),
     );
   }
+}
+
+Widget _handleAuth() {
+  return StreamBuilder<User?>(
+    stream: FirebaseAuth.instance.authStateChanges(),
+    builder: (context, snapshot) {
+      if (snapshot.connectionState == ConnectionState.waiting) {
+        return const CircularProgressIndicator();
+      } else if (snapshot.hasData) {
+        return HomePage();
+      } else {
+        return LoginPage();
+      }
+    },
+  );
 }

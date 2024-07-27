@@ -67,7 +67,7 @@ class _LoginPageState extends State<LoginPage> {
                   : ElevatedButton(
                       style: ButtonStyle(
                           backgroundColor:
-                              WidgetStateProperty.all(Colors.black87)),
+                              MaterialStateProperty.all(Colors.black87)),
                       onPressed: _login,
                       child: const Text('Login'),
                     ),

@@ -11,17 +11,16 @@ class MuscleDetailPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.black87,
+        backgroundColor: Colors.transparent,
         title: Text('${muscle.muscle} Exercises'),
       ),
       body: Stack(
         children: <Widget>[
-          // Background Image
           Positioned.fill(
             child: Opacity(
               opacity: 0.7,
               child: Image.asset(
-                'assets/img/background2.jpg', // Replace with your background image path
+                'assets/img/background2.jpg',
                 fit: BoxFit.cover,
               ),
             ),
@@ -30,7 +29,6 @@ class MuscleDetailPage extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: <Widget>[
-                // Header with Muscle Name and Image
                 Container(
                   padding: const EdgeInsets.all(20),
                   decoration: BoxDecoration(
@@ -66,7 +64,6 @@ class MuscleDetailPage extends StatelessWidget {
                   ),
                 ),
                 const SizedBox(height: 20),
-                // Exercise List
                 ListView.builder(
                   shrinkWrap: true,
                   physics: const NeverScrollableScrollPhysics(),
