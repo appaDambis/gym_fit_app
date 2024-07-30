@@ -29,7 +29,7 @@ class _NearbyGymsPageState extends State<NearbyGymsPage> {
       Position position = await getUserLocation();
       print('Current Position: ${position.latitude}, ${position.longitude}');
 
-      final apiKey = 'AIzaSyBRJiM8_hDA2nlPPmBi5tNDIpXW1aHlZiA';
+      final apiKey = 'You_API_Key';
       final url = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json'
           '?location=${position.latitude},${position.longitude}'
           '&radius=1500&type=gym&key=$apiKey';
@@ -107,7 +107,7 @@ class _NearbyGymsPageState extends State<NearbyGymsPage> {
                             ? gym['photos'][0]['photo_reference']
                             : null;
                         var photoUrl = photoReference != null
-                            ? 'https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=$photoReference&key=AIzaSyBRJiM8_hDA2nlPPmBi5tNDIpXW1aHlZiA'
+                            ? 'https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=$photoReference&key=Your_Api_Key'
                             : null;
                         var gymLocation = LatLng(
                           gym['geometry']['location']['lat'],
