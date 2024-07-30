@@ -18,7 +18,7 @@
               "name": "Bent Over Rows",
               "image": "assets/img/bent_over_rows.jpg",
               "description": "Bent over rows primarily target the upper back muscles including the latissimus dorsi, rhomboids, and middle trapezius.",
-              "videoLink": "https://www.youtube.com/watch?v=IQUfvZbUIvQ",
+              "videoLink": "https://www.youtube.com/watch?v=knB5Q4FN4ck&pp=ygUOYmVudCBvdmVyIHJvd3M%3D",
               "benefits": [
                 "Increases back muscle mass",
                 "Improves posture",
@@ -29,7 +29,7 @@
               "name": "Deadlifts",
               "image": "assets/img/deadlifts.jpg",
               "description": "Deadlifts are a full-body exercise but also heavily engage the lower back muscles.",
-              "videoLink": "https://www.youtube.com/watch?v=op9kVnSso6Q",
+              "videoLink": "https://www.youtube.com/watch?v=AweC3UaM14o&pp=ygUJZGVhZGxpZnRz",
               "benefits": [
                 "Strengthens lower back muscles",
                 "Builds overall body strength",
@@ -40,7 +40,7 @@
               "name": "T-Bar Rows",
               "image": "assets/img/t_bar_rows.jpg",
               "description": "T-Bar rows target the middle and upper back muscles, including the latissimus dorsi and rhomboids.",
-              "videoLink": "https://www.youtube.com/watch?v=ijjcS-XSQTA",
+              "videoLink": "https://www.youtube.com/watch?v=yPis7nlbqdY&pp=ygUJdCBiYXIgcm93",
               "benefits": [
                 "Increases back muscle thickness",
                 "Improves overall back strength",
@@ -51,7 +51,7 @@
               "name": "Lat Pulldowns",
               "image": "assets/img/lat_pulldowns.jpg",
               "description": "Lat pulldowns primarily target the latissimus dorsi muscles and also engage the biceps and middle back muscles.",
-              "videoLink": "https://www.youtube.com/watch?v=QIxn6K4nL80",
+              "videoLink": "https://www.youtube.com/watch?v=CAwf7n6Luuc&pp=ygUNTGF0IFB1bGxkb3ducw%3D%3D",
               "benefits": [
                 "Builds width in the upper back",
                 "Improves pulling strength",
@@ -62,7 +62,7 @@
               "name": "Single Arm Dumbbell Rows",
               "image": "assets/img/single_arm_dumbbell_rows.jpg",
               "description": "Single arm dumbbell rows target the latissimus dorsi and help in unilateral back muscle development.",
-              "videoLink": "https://www.youtube.com/watch?v=Jt8QFDUPbtA",
+              "videoLink": "https://www.youtube.com/watch?v=DMo3HJoawrU&pp=ygUYU2luZ2xlIEFybSBEdW1iYmVsbCBSb3dz",
               "benefits": [
                 "Improves muscle balance",
                 "Enhances back muscle symmetry",
@@ -73,7 +73,7 @@
               "name": "Seated Cable Rows",
               "image": "assets/img/seated_cable_rows.jpg",
               "description": "Seated cable rows target the middle and lower back muscles, including the rhomboids, middle trapezius, and latissimus dorsi.",
-              "videoLink": "https://www.youtube.com/watch?v=8EUsHHQ8UoM",
+              "videoLink": "https://www.youtube.com/watch?v=UCXxvVItLoM&pp=ygURU2VhdGVkIENhYmxlIFJvd3M%3D",
               "benefits": [
                 "Improves back muscle endurance",
                 "Enhances muscle pump",
@@ -84,7 +84,7 @@
               "name": "Hyperextensions",
               "image": "assets/img/hyperextensions.jpg",
               "description": "Hyperextensions target the lower back muscles and help in strengthening the erector spinae.",
-              "videoLink": "https://www.youtube.com/watch?v=YCVpjQPakwE",
+              "videoLink": "https://www.youtube.com/watch?v=qw1fAjGNFOY&pp=ygUPSHlwZXJleHRlbnNpb25z",
               "benefits": [
                 "Strengthens lower back muscles",
                 "Improves spinal stability",
@@ -101,7 +101,7 @@
           "name": "Bench Press",
           "image": "assets/img/bench_press.jpg",
           "description": "Bench press is a compound exercise that primarily targets the chest muscles (pectoralis major) but also involves the triceps and shoulders.",
-          "videoLink": "https://www.youtube.com/watch?v=4D4nP8k45Ec",
+          "videoLink": "https://www.youtube.com/watch?v=4Y2ZdHCOXok&pp=ygULQmVuY2ggUHJlc3M%3D",
           "benefits": [
             "Increases chest muscle mass",
             "Enhances upper body pushing strength",
@@ -112,7 +112,7 @@
           "name": "Push-ups",
           "image": "assets/img/push_ups.jpg",
           "description": "Push-ups are a bodyweight exercise that target the chest muscles, shoulders, and triceps.",
-          "videoLink": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+          "videoLink": "https://www.youtube.com/watch?v=IODxDxX7oi4&pp=ygUIUHVzaC11cHM%3D",
           "benefits": [
             "Strengthens chest and arm muscles",
             "Improves core stability",
@@ -123,7 +123,7 @@
           "name": "Dumbbell Flyes",
           "image": "assets/img/dumbbell_flyes.jpg",
           "description": "Dumbbell flyes isolate the chest muscles and provide a stretch through the pectoral muscles.",
-          "videoLink": "https://www.youtube.com/watch?v=rGfJH7URrMk",
+          "videoLink": "https://www.youtube.com/watch?v=eozdVDA78K0&pp=ygUORHVtYmJlbGwgRmx5ZXM%3D",
           "benefits": [
             "Targets inner and outer chest muscles",
             "Enhances chest muscle definition",
@@ -134,7 +134,7 @@
             "name": "Incline Bench Press",
             "image": "assets/img/incline_bench_press.jpg",
             "description": "Incline bench press targets the upper chest muscles (pectoralis major) and helps in building upper chest definition.",
-            "videoLink": "https://www.youtube.com/watch?v=esQi683XR44",
+            "videoLink": "https://www.youtube.com/watch?v=SrqOu55lrYU&pp=ygUTSW5jbGluZSBCZW5jaCBQcmVzcw%3D%3D",
             "benefits": [
               "Develops upper chest strength",
               "Improves shoulder stability",
@@ -145,7 +145,7 @@
             "name": "Chest Dips",
             "image": "assets/img/chest_dips.jpg",
             "description": "Chest dips primarily target the lower chest muscles and also engage the triceps and shoulders.",
-            "videoLink": "https://www.youtube.com/watch?v=wjMb3tpN2o4",
+            "videoLink": "https://www.youtube.com/watch?v=yN6Q1UI_xkE&pp=ygUKQ2hlc3QgRGlwcw%3D%3D",
             "benefits": [
               "Strengthens lower chest muscles",
               "Improves pushing strength",
@@ -156,7 +156,7 @@
             "name": "Cable Crossovers",
             "image": "assets/img/cable_crossovers.jpg",
             "description": "Cable crossovers isolate the chest muscles and provide constant tension throughout the range of motion.",
-            "videoLink": "https://www.youtube.com/watch?v=Jh1NxdK3Mfw",
+            "videoLink": "https://www.youtube.com/watch?v=taI4XduLpTk&pp=ygUQQ2FibGUgQ3Jvc3NvdmVycw%3D%3D",
             "benefits": [
               "Targets inner and outer chest muscles",
               "Enhances chest muscle definition",
@@ -167,7 +167,7 @@
             "name": "Decline Bench Press",
             "image": "assets/img/decline_bench_press.jpg",
             "description": "Decline bench press targets the lower chest muscles and helps in building strength in the lower chest region.",
-            "videoLink": "https://www.youtube.com/watch?v=_hWv6LQHEkU",
+            "videoLink": "https://www.youtube.com/watch?v=0xRvl4Qv3ZY&pp=ygUTRGVjbGluZSBCZW5jaCBQcmVzcw%3D%3D",
             "benefits": [
               "Develops lower chest muscles",
               "Improves bench press lockout strength",
@@ -178,7 +178,7 @@
             "name": "Pec Deck Machine",
             "image": "assets/img/pec_deck_machine.jpg",
             "description": "Pec deck machine isolates the chest muscles and allows for controlled movement to target the pectoral muscles.",
-            "videoLink": "https://www.youtube.com/watch?v=ixzOwP4xKmE",
+            "videoLink": "https://www.youtube.com/shorts/g3T7LsEeDWQ",
             "benefits": [
               "Provides constant tension on chest muscles",
               "Enhances chest muscle definition",
@@ -189,7 +189,7 @@
             "name": "Chest Press Machine",
             "image": "assets/img/chest_press_machine.jpg",
             "description": "Chest press machine replicates the bench press movement and targets the chest muscles with added stability.",
-            "videoLink": "https://www.youtube.com/watch?v=s1hLx4z8WRk",
+            "videoLink": "https://www.youtube.com/watch?v=sqNwDkUU_Ps&pp=ygUTQ2hlc3QgUHJlc3MgTWFjaGluZQ%3D%3D",
             "benefits": [
               "Provides controlled chest muscle contraction",
               "Improves muscle endurance",
@@ -200,7 +200,7 @@
             "name": "Machine Flyes",
             "image": "assets/img/machine_flyes.jpg",
             "description": "Machine flyes isolate the chest muscles and provide a controlled range of motion for muscle contraction.",
-            "videoLink": "https://www.youtube.com/watch?v=wd2ys2eX2hs",
+            "videoLink": "https://www.youtube.com/watch?v=eGjt4lk6g34&pp=ygUNTWFjaGluZSBGbHllcw%3D%3D",
             "benefits": [
               "Targets chest muscles with minimal shoulder involvement",
               "Enhances chest muscle definition",
@@ -211,7 +211,7 @@
             "name": "Diamond Push-ups",
             "image": "assets/img/diamond_push_ups.jpg",
             "description": "Diamond push-ups target the inner chest and triceps muscles, providing a challenging variation to traditional push-ups.",
-            "videoLink": "https://www.youtube.com/watch?v=mJ1Bm5Fvlro",
+            "videoLink": "https://www.youtube.com/watch?v=XtU2VQVuLYs&pp=ygUQRGlhbW9uZCBQdXNoLXVwcw%3D%3D",
             "benefits": [
               "Strengthens inner chest muscles",
               "Develops triceps strength",
@@ -222,7 +222,7 @@
             "name": "Wide Grip Bench Press",
             "image": "assets/img/wide_grip_bench_press.jpg",
             "description": "Wide grip bench press emphasizes the outer chest and also engages the shoulders and triceps.",
-            "videoLink": "https://www.youtube.com/watch?v=Wblb3vXwzu0",
+            "videoLink": "https://www.youtube.com/watch?v=EeE3f4VWFDo&pp=ygUVV2lkZSBHcmlwIEJlbmNoIFByZXNz",
             "benefits": [
               "Targets outer chest muscles",
               "Improves chest width and definition",
@@ -233,7 +233,7 @@
             "name": "Medicine Ball Push-ups",
             "image": "assets/img/medicine_ball_push_ups.jpg",
             "description": "Medicine ball push-ups enhance core stability and target chest, shoulders, and triceps.",
-            "videoLink": "https://www.youtube.com/watch?v=JU1wr1KxkVU",
+            "videoLink": "https://www.youtube.com/watch?v=NN9R4wGK47E&pp=ygUWTWVkaWNpbmUgQmFsbCBQdXNoLXVwcw%3D%3D",
             "benefits": [
               "Improves balance and coordination",
               "Strengthens chest and arm muscles",
@@ -250,7 +250,7 @@
           "name": "Bicep Curls",
           "image": "assets/img/bicep_curls.jpg",
           "description": "Bicep curls isolate the biceps brachii muscle.",
-          "videoLink": "https://www.youtube.com/watch?v=kwG2ipFRgfo",
+          "videoLink": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo&pp=ygULQmljZXAgQ3VybHM%3D",
           "benefits": [
             "Increases bicep muscle size and strength",
             "Improves arm aesthetics",
@@ -261,7 +261,7 @@
           "name": "Hammer Curls",
           "image": "assets/img/hammer_curls.jpg",
           "description": "Hammer curls target the biceps brachii as well as the brachialis and brachioradialis muscles.",
-          "videoLink": "https://www.youtube.com/watch?v=mW_5zHjdMQE",
+          "videoLink": "https://www.youtube.com/watch?v=OPqe0kCxmR8&pp=ygUMSGFtbWVyIEN1cmxz",
           "benefits": [
             "Enhances forearm muscle strength",
             "Improves grip strength",
@@ -272,7 +272,7 @@
           "name": "Chin-ups",
           "image": "assets/img/chin_ups.jpg",
           "description": "Chin-ups primarily target the biceps and also engage the back and shoulder muscles.",
-          "videoLink": "https://www.youtube.com/watch?v=_l3ySVKYVJ8",
+          "videoLink": "https://www.youtube.com/watch?v=TaP1Znk_X9c&pp=ygUIQ2hpbi11cHM%3D",
           "benefits": [
             "Strengthens biceps and upper back muscles",
             "Improves overall upper body strength",
@@ -283,7 +283,7 @@
             "name": "Preacher Curls",
             "image": "assets/img/preacher_curls.jpg",
             "description": "Preacher curls isolate the biceps by stabilizing the upper arms, focusing on the lower portion of the biceps brachii.",
-            "videoLink": "https://www.youtube.com/watch?v=8B9jXYpXjkM",
+            "videoLink": "https://www.youtube.com/watch?v=Zbs3ko8ycyg&pp=ygUOUHJlYWNoZXIgQ3VybHM%3D",
             "benefits": [
               "Targets bicep peak and lower bicep",
               "Improves bicep muscle definition",
@@ -294,7 +294,7 @@
             "name": "Concentration Curls",
             "image": "assets/img/concentration_curls.jpg",
             "description": "Concentration curls isolate the biceps by eliminating swinging and momentum, focusing on controlled curling.",
-            "videoLink": "https://www.youtube.com/watch?v=6T8d2sXKzhw",
+            "videoLink": "https://www.youtube.com/watch?v=0AUGkch3tzc&pp=ygUTQ29uY2VudHJhdGlvbiBDdXJscw%3D%3D",
             "benefits": [
               "Enhances bicep peak development",
               "Improves mind-muscle connection",
@@ -305,7 +305,7 @@
             "name": "Spider Curls",
             "image": "assets/img/spider_curls.jpg",
             "description": "Spider curls target the biceps by using an incline bench to isolate the arm movement and emphasize the peak contraction.",
-            "videoLink": "https://www.youtube.com/watch?v=JyNHpxeTolM",
+            "videoLink": "https://www.youtube.com/shorts/8N5sBROvWpI",
             "benefits": [
               "Focuses on bicep peak development",
               "Allows for full range of motion",
@@ -316,7 +316,7 @@
             "name": "Cable Rope Hammer Curls",
             "image": "assets/img/cable_rope_hammer_curls.jpg",
             "description": "Cable rope hammer curls emphasize the brachialis and brachioradialis muscles alongside the biceps, using a neutral grip for varied stimulation.",
-            "videoLink": "https://www.youtube.com/watch?v=Q0e7W82HAsI",
+            "videoLink": "https://www.youtube.com/watch?v=V8AR3SGzboU&pp=ygUXQ2FibGUgUm9wZSBIYW1tZXIgQ3VybHM%3D",
             "benefits": [
               "Targets forearm muscles",
               "Improves overall arm strength",
@@ -327,7 +327,7 @@
             "name": "Reverse Curls",
             "image": "assets/img/reverse_curls.jpg",
             "description": "Reverse curls primarily target the brachioradialis muscle on the forearm while also engaging the biceps.",
-            "videoLink": "https://www.youtube.com/watch?v=O3VhMc7OcP4",
+            "videoLink": "https://www.youtube.com/watch?v=hUA-fIpM7nA&pp=ygUNUmV2ZXJzZSBDdXJscw%3D%3D",
             "benefits": [
               "Develops forearm and bicep strength",
               "Improves grip strength and endurance",
@@ -338,7 +338,7 @@
             "name": "EZ Bar Curls",
             "image": "assets/img/ez_bar_curls.jpg",
             "description": "EZ bar curls provide a comfortable grip while targeting the biceps with a natural wrist position, allowing for heavier lifts.",
-            "videoLink": "https://www.youtube.com/watch?v=Vt8P0Qm0g_Y",
+            "videoLink": "https://www.youtube.com/watch?v=kwG2ipFRgfo&pp=ygUMRVogQmFyIEN1cmxz",
             "benefits": [
               "Reduces wrist strain",
               "Allows for heavier bicep training",
@@ -349,7 +349,7 @@
             "name": "Single Arm Cable Curls",
             "image": "assets/img/single_arm_cable_curls.jpg",
             "description": "Single arm cable curls isolate each bicep individually, promoting balanced muscle development and enhancing muscular control.",
-            "videoLink": "https://www.youtube.com/watch?v=ovKk2to9G6o",
+            "videoLink": "https://www.youtube.com/watch?v=9ZUCFkp-5BI&pp=ygUWU2luZ2xlIEFybSBDYWJsZSBDdXJscw%3D%3D",
             "benefits": [
               "Improves muscle symmetry",
               "Enhances mind-muscle connection",
@@ -360,7 +360,7 @@
             "name": "21s",
             "image": "assets/img/21s.jpg",
             "description": "21s involve three sets of seven reps with different ranges of motion, targeting various parts of the biceps for complete muscle activation.",
-            "videoLink": "https://www.youtube.com/watch?v=sAzRDrw6KBE",
+            "videoLink": "https://www.youtube.com/watch?v=2JOXXpD4HcY&pp=ygUDMjFz",
             "benefits": [
               "Increases bicep endurance",
               "Enhances bicep peak development",
@@ -371,7 +371,7 @@
             "name": "Isometric Bicep Curls",
             "image": "assets/img/isometric_bicep_curls.jpg",
             "description": "Isometric bicep curls involve holding the curl position to engage and strengthen the biceps without joint movement.",
-            "videoLink": "https://www.youtube.com/watch?v=_rs2BQu90oA",
+            "videoLink": "https://www.youtube.com/watch?v=AgGnNrF2070&pp=ygUVSXNvbWV0cmljIEJpY2VwIEN1cmxz",
             "benefits": [
               "Strengthens biceps in a static position",
               "Improves muscle endurance",
@@ -388,7 +388,7 @@
           "name": "Tricep Dips",
           "image": "assets/img/tricep_dips.jpg",
           "description": "Tricep dips primarily target the triceps brachii muscle.",
-          "videoLink": "https://www.youtube.com/watch?v=0326dy_-CzM",
+          "videoLink": "https://www.youtube.com/watch?v=6kALZikXxLc&pp=ygULVHJpY2VwIERpcHM%3D",
           "benefits": [
             "Builds tricep muscle mass",
             "Improves upper body pushing strength",
@@ -399,7 +399,7 @@
           "name": "Tricep Extensions",
           "image": "assets/img/tricep_extensions.jpg",
           "description": "Tricep extensions isolate the triceps brachii muscle.",
-          "videoLink": "https://www.youtube.com/watch?v=VW3F5TbPkyg",
+          "videoLink": "https://www.youtube.com/watch?v=_gsUck-7M74&pp=ygURVHJpY2VwIEV4dGVuc2lvbnM%3D",
           "benefits": [
             "Targets all three heads of the triceps",
             "Improves arm definition",
@@ -410,7 +410,7 @@
           "name": "Close Grip Bench Press",
           "image": "assets/img/close_grip_bench_press.jpg",
           "description": "Close grip bench press emphasizes the triceps while also engaging the chest and shoulders.",
-          "videoLink": "https://www.youtube.com/watch?v=6V1SFhM8P0g",
+          "videoLink": "https://www.youtube.com/watch?v=XEFDMwmrLAM&pp=ygUWQ2xvc2UgR3JpcCBCZW5jaCBQcmVzcw%3D%3D",
           "benefits": [
             "Strengthens triceps and chest muscles",
             "Improves lockout strength in bench press",
@@ -421,7 +421,7 @@
             "name": "Overhead Tricep Extension",
             "image": "assets/img/overhead_tricep_extension.jpg",
             "description": "Overhead tricep extensions target the long head of the triceps, emphasizing muscle stretch and contraction.",
-            "videoLink": "https://www.youtube.com/watch?v=voGl6dqDjC0",
+            "videoLink": "https://www.youtube.com/watch?v=1u18yJELsh0&pp=ygUZT3ZlcmhlYWQgVHJpY2VwIEV4dGVuc2lvbg%3D%3D",
             "benefits": [
               "Focuses on tricep muscle mass",
               "Improves overhead strength",
@@ -432,7 +432,7 @@
             "name": "Tricep Kickbacks",
             "image": "assets/img/tricep_kickbacks.jpg",
             "description": "Tricep kickbacks isolate the triceps by extending the arm against resistance, emphasizing the contraction at the top.",
-            "videoLink": "https://www.youtube.com/watch?v=d_UVgk_j5p4",
+            "videoLink": "https://www.youtube.com/watch?v=JPmbMOu4IYw&pp=ygUQVHJpY2VwIEtpY2tiYWNrcw%3D%3D",
             "benefits": [
               "Targets tricep definition",
               "Improves rear arm aesthetics",
@@ -443,7 +443,7 @@
             "name": "Diamond Push-ups",
             "image": "assets/img/diamond_push_ups.jpg",
             "description": "Diamond push-ups focus on the triceps with a narrow hand position, increasing the workload on the back of the arms.",
-            "videoLink": "https://www.youtube.com/watch?v=J8G-mT4ZPeU",
+            "videoLink": "https://www.youtube.com/watch?v=XtU2VQVuLYs&pp=ygUQRGlhbW9uZCBQdXNoLXVwcw%3D%3D",
             "benefits": [
               "Strengthens triceps and chest muscles",
               "Improves upper body endurance",
@@ -454,7 +454,7 @@
             "name": "Tricep Rope Pushdowns",
             "image": "assets/img/tricep_rope_pushdowns.jpg",
             "description": "Tricep rope pushdowns target the triceps with a cable machine, allowing for continuous tension throughout the movement.",
-            "videoLink": "https://www.youtube.com/watch?v=0xRGL8jLWs4",
+            "videoLink": "https://www.youtube.com/watch?v=-xa-6cQaZKY&pp=ygUVVHJpY2VwIFJvcGUgUHVzaGRvd25z",
             "benefits": [
               "Enhances tricep peak contraction",
               "Improves overall arm strength",
@@ -465,7 +465,7 @@
             "name": "Tricep Pulldowns",
             "image": "assets/img/tricep_pulldowns.jpg",
             "description": "Tricep pulldowns isolate the triceps with a straight bar attachment on a cable machine, emphasizing controlled extension.",
-            "videoLink": "https://www.youtube.com/watch?v=6kALZikXxLc",
+            "videoLink": "https://www.youtube.com/watch?v=Fwl0T1_giQ0&pp=ygUQVHJpY2VwIFB1bGxkb3ducw%3D%3D",
             "benefits": [
               "Targets tricep muscle mass",
               "Improves strength in elbow extension",
@@ -476,7 +476,7 @@
             "name": "Tricep Bench Dips",
             "image": "assets/img/tricep_bench_dips.jpg",
             "description": "Tricep bench dips use bodyweight to target the triceps with a dip motion, focusing on upper arm extension.",
-            "videoLink": "https://www.youtube.com/watch?v=0326dy_-CzM",
+            "videoLink": "https://www.youtube.com/watch?v=0326dy_-CzM&pp=ygURVHJpY2VwIEJlbmNoIERpcHM%3D",
             "benefits": [
               "Builds tricep strength and endurance",
               "Improves overall upper body pushing strength",
@@ -487,7 +487,7 @@
             "name": "Tricep Overhead Cable Extensions",
             "image": "assets/img/tricep_overhead_cable_extensions.jpg",
             "description": "Tricep overhead cable extensions emphasize the long head of the triceps using a cable machine, promoting muscle stretch and contraction.",
-            "videoLink": "https://www.youtube.com/watch?v=tXw6zEXCZ1s",
+            "videoLink": "https://www.youtube.com/watch?v=gsuW1bJc-Gk&pp=ygUgVHJpY2VwIE92ZXJoZWFkIENhYmxlIEV4dGVuc2lvbnM%3D",
             "benefits": [
               "Targets tricep muscle growth",
               "Improves overhead strength and stability",
@@ -498,7 +498,7 @@
             "name": "Reverse Grip Tricep Pushdowns",
             "image": "assets/img/reverse_grip_tricep_pushdowns.jpg",
             "description": "Reverse grip tricep pushdowns target the triceps with an underhand grip on a cable machine, focusing on the outer tricep head.",
-            "videoLink": "https://www.youtube.com/watch?v=d9Q1gP5aKxU",
+            "videoLink": "https://www.youtube.com/watch?v=GqK6WrZEyEk&pp=ygUdUmV2ZXJzZSBHcmlwIFRyaWNlcCBQdXNoZG93bnM%3D",
             "benefits": [
               "Enhances tricep definition",
               "Improves forearm and grip strength",
@@ -509,7 +509,7 @@
             "name": "Close Grip Push-ups",
             "image": "assets/img/close_grip_push_ups.jpg",
             "description": "Close grip push-ups emphasize the triceps and chest muscles with a narrow hand position, increasing the challenge on the triceps.",
-            "videoLink": "https://www.youtube.com/watch?v=gs7hH54tT-Y",
+            "videoLink": "https://www.youtube.com/watch?v=G2mlaEfpEIM&pp=ygUTQ2xvc2UgR3JpcCBQdXNoLXVwcw%3D%3D",
             "benefits": [
               "Strengthens triceps and chest muscles",
               "Improves upper body pushing strength",
@@ -520,7 +520,7 @@
             "name": "Tricep Machine Dips",
             "image": "assets/img/tricep_machine_dips.jpg",
             "description": "Tricep machine dips isolate the triceps with a dip motion on a dedicated machine, allowing for controlled movement and resistance adjustment.",
-            "videoLink": "https://www.youtube.com/watch?v=5LE-7oWuKvE",
+            "videoLink": "https://www.youtube.com/watch?v=IsYLsO16y7g&pp=ygUTVHJpY2VwIE1hY2hpbmUgRGlwcw%3D%3D",
             "benefits": [
               "Builds tricep strength and endurance",
               "Targets tricep muscle mass",
@@ -537,7 +537,7 @@
           "name": "Shoulder Press",
           "image": "assets/img/shoulder_press.jpg",
           "description": "Shoulder press targets the deltoid muscles of the shoulders.",
-          "videoLink": "https://www.youtube.com/watch?v=yAVF5C6Rlno",
+          "videoLink": "https://www.youtube.com/watch?v=vlFGTI5JzjI&pp=ygUOU2hvdWxkZXIgUHJlc3M%3D",
           "benefits": [
             "Increases shoulder muscle mass",
             "Improves shoulder stability",
@@ -548,7 +548,7 @@
           "name": "Lateral Raises",
           "image": "assets/img/lateral_raises.jpg",
           "description": "Lateral raises target the lateral deltoid muscles.",
-          "videoLink": "https://www.youtube.com/watch?v=CP9b1I0Vn40",
+          "videoLink": "https://www.youtube.com/watch?v=XPPfnSEATJA&pp=ygUOTGF0ZXJhbCBSYWlzZXM%3D",
           "benefits": [
             "Enhances shoulder width",
             "Improves shoulder definition",
@@ -559,7 +559,7 @@
           "name": "Front Raises",
           "image": "assets/img/front_raises.jpg",
           "description": "Front raises target the front deltoid muscles and help in shoulder stabilization.",
-          "videoLink": "https://www.youtube.com/watch?v=WljW6w_UWVk",
+          "videoLink": "https://www.youtube.com/watch?v=hRJ6tR5-if0&pp=ygUMRnJvbnQgUmFpc2Vz",
           "benefits": [
             "Isolates front deltoid muscles",
             "Improves shoulder endurance",
@@ -570,7 +570,7 @@
             "name": "Arnold Press",
             "image": "assets/img/arnold_press.jpg",
             "description": "Arnold press combines a shoulder press with a rotation, targeting multiple shoulder muscles including the deltoids and trapezius.",
-            "videoLink": "https://www.youtube.com/watch?v=vj2w851ZHRM",
+            "videoLink": "https://www.youtube.com/watch?v=6Z15_WdXmVw&pp=ygUMQXJub2xkIFByZXNz",
             "benefits": [
               "Increases shoulder muscle mass",
               "Improves shoulder flexibility",
@@ -581,7 +581,7 @@
             "name": "Rear Delt Flyes",
             "image": "assets/img/rear_delt_flyes.jpg",
             "description": "Rear delt flyes target the posterior deltoid muscles, enhancing shoulder width and stability.",
-            "videoLink": "https://www.youtube.com/watch?v=uf8pXg_YvpM",
+            "videoLink": "https://www.youtube.com/watch?v=nlkF7_2O_Lw&pp=ygUPUmVhciBEZWx0IEZseWVz",
             "benefits": [
               "Improves rear shoulder definition",
               "Strengthens shoulder blade muscles",
@@ -592,7 +592,7 @@
             "name": "Upright Rows",
             "image": "assets/img/upright_rows.jpg",
             "description": "Upright rows target the trapezius muscles along with the lateral deltoids, improving shoulder and upper back strength.",
-            "videoLink": "https://www.youtube.com/watch?v=J25VcTPltH0",
+            "videoLink": "https://www.youtube.com/watch?v=um3VVzqunPU&pp=ygUMVXByaWdodCBSb3dz",
             "benefits": [
               "Enhances shoulder and upper back muscle mass",
               "Improves shoulder stability",
@@ -603,7 +603,7 @@
             "name": "Shrugs",
             "image": "assets/img/shrugs.jpg",
             "description": "Shrugs primarily target the trapezius muscles, improving upper back and shoulder strength and stability.",
-            "videoLink": "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+            "videoLink": "https://www.youtube.com/watch?v=cJRVVxmytaM&pp=ygUGU2hydWdz",
             "benefits": [
               "Increases trapezius muscle size and strength",
               "Improves shoulder blade stability",
@@ -614,7 +614,7 @@
             "name": "Barbell Front Raises",
             "image": "assets/img/barbell_front_raises.jpg",
             "description": "Barbell front raises isolate the front deltoid muscles, enhancing shoulder strength and definition.",
-            "videoLink": "https://www.youtube.com/watch?v=rNo1uWF2D0w",
+            "videoLink": "https://www.youtube.com/watch?v=_ikCPws1mbE&pp=ygUUQmFyYmVsbCBGcm9udCBSYWlzZXM%3D",
             "benefits": [
               "Focuses on front deltoid muscle development",
               "Improves shoulder endurance",
@@ -625,7 +625,7 @@
             "name": "Dumbbell Shoulder Shrugs",
             "image": "assets/img/dumbbell_shrugs.jpg",
             "description": "Dumbbell shoulder shrugs target the trapezius muscles, improving upper back and shoulder stability.",
-            "videoLink": "https://www.youtube.com/watch?v=qEwKCR5JCog",
+            "videoLink": "https://www.youtube.com/watch?v=_t3lrPI6Ns4&pp=ygUYRHVtYmJlbGwgU2hvdWxkZXIgU2hydWdz",
             "benefits": [
               "Strengthens trapezius muscles",
               "Improves shoulder blade stability",
@@ -636,7 +636,7 @@
             "name": "Push Press",
             "image": "assets/img/push_press.jpg",
             "description": "Push press combines a leg drive with a shoulder press, emphasizing overall shoulder strength and power.",
-            "videoLink": "https://www.youtube.com/watch?v=AKmCPZj6Bbk",
+            "videoLink": "https://www.youtube.com/watch?v=iaBVSJm78ko&pp=ygUKUHVzaCBQcmVzcw%3D%3D",
             "benefits": [
               "Increases shoulder and upper body strength",
               "Improves explosive power",
@@ -653,7 +653,7 @@
           "name": "Squats",
           "image": "assets/img/squats.jpg",
           "description": "Squats primarily target the quadriceps, hamstrings, and gluteal muscles.",
-          "videoLink": "https://www.youtube.com/watch?v=Dy28eq2PjcM",
+          "videoLink": "https://www.youtube.com/watch?v=xqvCmoLULNY&pp=ygUGU3F1YXRz",
           "benefits": [
             "Builds lower body strength",
             "Improves core stability",
@@ -664,7 +664,7 @@
           "name": "Lunges",
           "image": "assets/img/lunges.jpg",
           "description": "Lunges target the quadriceps, hamstrings, and gluteal muscles.",
-          "videoLink": "https://www.youtube.com/watch?v=QOVaHwm-Q6U",
+          "videoLink": "https://www.youtube.com/watch?v=MxfTNXSFiYI&pp=ygUGTHVuZ2Vz",
           "benefits": [
             "Strengthens leg muscles",
             "Improves balance and coordination",
@@ -675,7 +675,7 @@
           "name": "Deadlifts",
           "image": "assets/img/deadlifts.jpg",
           "description": "Deadlifts are a compound exercise that targets the lower back, glutes, hamstrings, and quadriceps.",
-          "videoLink": "https://www.youtube.com/watch?v=op9kVnSso6Q",
+          "videoLink": "https://www.youtube.com/watch?v=AweC3UaM14o&pp=ygUJRGVhZGxpZnRz",
           "benefits": [
             "Builds posterior chain strength",
             "Improves grip strength",
@@ -686,7 +686,7 @@
             "name": "Romanian Deadlifts",
             "image": "assets/img/romanian_deadlifts.jpg",
             "description": "Romanian deadlifts focus on the hamstrings and glutes, promoting strength and flexibility.",
-            "videoLink": "https://www.youtube.com/watch?v=jEy_czb3RKA",
+            "videoLink": "https://www.youtube.com/watch?v=_oyxCn2iSjU&pp=ygUSUm9tYW5pYW4gRGVhZGxpZnRz",
             "benefits": [
               "Targets hamstrings and glutes",
               "Improves hip mobility",
@@ -697,7 +697,7 @@
             "name": "Leg Press",
             "image": "assets/img/leg_press.jpg",
             "description": "Leg press targets the quadriceps, hamstrings, and glutes with less stress on the lower back compared to squats.",
-            "videoLink": "https://www.youtube.com/watch?v=I4PiJHBL4Xs",
+            "videoLink": "https://www.youtube.com/watch?v=xq2-vebNe6I&pp=ygUJTGVnIFByZXNz",
             "benefits": [
               "Builds leg muscle strength",
               "Allows for heavy loading of leg muscles",
@@ -708,7 +708,7 @@
             "name": "Box Jumps",
             "image": "assets/img/box_jumps.jpg",
             "description": "Box jumps improve explosive power and coordination by targeting the quadriceps, hamstrings, and calves.",
-            "videoLink": "https://www.youtube.com/watch?v=hxldGgjxWEg",
+            "videoLink": "https://www.youtube.com/watch?v=52r_Ul5k03g&pp=ygUJQm94IEp1bXBz",
             "benefits": [
               "Enhances lower body explosive strength",
               "Improves vertical jump height",
@@ -719,7 +719,7 @@
             "name": "Step-Ups",
             "image": "assets/img/step_ups.jpg",
             "description": "Step-ups target the quadriceps, hamstrings, and glutes, enhancing unilateral leg strength and stability.",
-            "videoLink": "https://www.youtube.com/watch?v=gQcCwAmi1Pw",
+            "videoLink": "https://www.youtube.com/watch?v=v2GfVnjmY7c&pp=ygUIU3RlcC1VcHM%3D",
             "benefits": [
               "Improves balance and coordination",
               "Strengthens each leg individually",
@@ -730,7 +730,7 @@
             "name": "Calf Raises",
             "image": "assets/img/calf_raises.jpg",
             "description": "Calf raises focus on the calf muscles, improving ankle stability and lower leg strength.",
-            "videoLink": "https://www.youtube.com/watch?v=2DBmduzE6gg",
+            "videoLink": "https://www.youtube.com/watch?v=eMTy3qylqnE&pp=ygULQ2FsZiBSYWlzZXM%3D",
             "benefits": [
               "Strengthens calf muscles",
               "Enhances ankle stability",
@@ -741,7 +741,7 @@
             "name": "Walking Lunges",
             "image": "assets/img/walking_lunges.jpg",
             "description": "Walking lunges target the quadriceps, hamstrings, and glutes while improving balance and coordination.",
-            "videoLink": "https://www.youtube.com/watch?v=COKYwf4-LAY",
+            "videoLink": "https://www.youtube.com/watch?v=tQNktxPkSeE&pp=ygUOV2Fsa2luZyBMdW5nZXM%3D",
             "benefits": [
               "Strengthens legs and glutes",
               "Improves cardiovascular fitness",
@@ -752,7 +752,7 @@
             "name": "Glute Bridges",
             "image": "assets/img/glute_bridges.jpg",
             "description": "Glute bridges isolate and strengthen the gluteal muscles, promoting better hip stability and strength.",
-            "videoLink": "https://www.youtube.com/watch?v=n4BiBmu7zFM",
+            "videoLink": "https://www.youtube.com/watch?v=OUgsJ8-Vi0E&pp=ygUNR2x1dGUgQnJpZGdlcw%3D%3D",
             "benefits": [
               "Activates and strengthens glute muscles",
               "Improves hip mobility and flexibility",
@@ -769,7 +769,7 @@
           "name": "Crunches",
           "image": "assets/img/crunches.jpg",
           "description": "Crunches target the rectus abdominis muscles.",
-          "videoLink": "https://www.youtube.com/watch?v=Xyd_fa5zoEU",
+          "videoLink": "https://www.youtube.com/watch?v=O0pIQ2UqeCY&pp=ygUIQ3J1bmNoZXM%3D",
           "benefits": [
             "Strengthens core muscles",
             "Improves abdominal definition",
@@ -780,7 +780,7 @@
           "name": "Plank",
           "image": "assets/img/plank.jpg",
           "description": "Plank exercise engages the entire core including the rectus abdominis, transverse abdominis, and obliques.",
-          "videoLink": "https://www.youtube.com/watch?v=pSHjTRCQxIw",
+          "videoLink": "https://www.youtube.com/watch?v=pvIjsG5Svck&pp=ygUFUGxhbms%3D",
           "benefits": [
             "Improves core strength and stability",
             "Enhances posture",
@@ -791,7 +791,7 @@
           "name": "Russian Twists",
           "image": "assets/img/russian_twists.jpg",
           "description": "Russian twists target the oblique muscles and improve rotational core strength.",
-          "videoLink": "https://www.youtube.com/watch?v=ZJjOibbRmEM",
+          "videoLink": "https://www.youtube.com/watch?v=wkD8rjkodUI&pp=ygUOUnVzc2lhbiBUd2lzdHM%3D",
           "benefits": [
             "Enhances oblique muscle definition",
             "Improves torso rotation for sports performance",
@@ -802,7 +802,7 @@
             "name": "Leg Raises",
             "image": "assets/img/leg_raises.jpg",
             "description": "Leg raises target the lower abdominal muscles and improve hip flexor strength.",
-            "videoLink": "https://www.youtube.com/watch?v=JB2oyawG9KI",
+            "videoLink": "https://www.youtube.com/watch?v=9qbV7ZQNqqA&pp=ygUKTGVnIFJhaXNlcw%3D%3D",
             "benefits": [
               "Strengthens lower abdominal muscles",
               "Improves hip flexor flexibility",
@@ -813,7 +813,7 @@
             "name": "Hanging Leg Raises",
             "image": "assets/img/hanging_leg_raises.jpg",
             "description": "Hanging leg raises emphasize the lower abs and require upper body strength for stability.",
-            "videoLink": "https://www.youtube.com/watch?v=3KvJnRNf4vQ",
+            "videoLink": "https://www.youtube.com/watch?v=RuIdJSVTKO4&pp=ygUSSGFuZ2luZyBMZWcgUmFpc2Vz",
             "benefits": [
               "Targets lower abs effectively",
               "Improves grip strength and upper body endurance",
@@ -824,7 +824,7 @@
             "name": "Mountain Climbers",
             "image": "assets/img/mountain_climbers.jpg",
             "description": "Mountain climbers engage the entire core and increase heart rate, providing both cardio and core benefits.",
-            "videoLink": "https://www.youtube.com/watch?v=nmwgirgXLYM",
+            "videoLink": "https://www.youtube.com/watch?v=kLh-uczlPLg&pp=ygURTW91bnRhaW4gQ2xpbWJlcnM%3D",
             "benefits": [
               "Improves cardiovascular fitness",
               "Enhances core strength and endurance",
@@ -835,7 +835,7 @@
             "name": "Reverse Crunches",
             "image": "assets/img/reverse_crunches.jpg",
             "description": "Reverse crunches target the lower abs and help in developing a strong core.",
-            "videoLink": "https://www.youtube.com/watch?v=i_ZyATd6FBU",
+            "videoLink": "https://www.youtube.com/watch?v=hyv14e2QDq0&pp=ygUQUmV2ZXJzZSBDcnVuY2hlcw%3D%3D",
             "benefits": [
               "Focuses on lower abdominal muscles",
               "Reduces strain on the neck compared to traditional crunches",
@@ -846,7 +846,7 @@
             "name": "Bicycle Crunches",
             "image": "assets/img/bicycle_crunches.jpg",
             "description": "Bicycle crunches work the rectus abdominis and oblique muscles, promoting better core definition.",
-            "videoLink": "https://www.youtube.com/watch?v=9FGilxCbdz8",
+            "videoLink": "https://www.youtube.com/watch?v=1we3bh9uhqY&pp=ygUQQmljeWNsZSBDcnVuY2hlcw%3D%3D",
             "benefits": [
               "Targets both upper and lower abs",
               "Improves coordination and balance",
@@ -857,7 +857,7 @@
             "name": "Sit-ups",
             "image": "assets/img/sit_ups.jpg",
             "description": "Sit-ups strengthen the rectus abdominis muscles and can be modified for different intensity levels.",
-            "videoLink": "https://www.youtube.com/watch?v=1fbU_MkV7NE",
+            "videoLink": "https://www.youtube.com/watch?v=UMaZGY6CbC4&pp=ygUHU2l0LXVwcw%3D%3D",
             "benefits": [
               "Builds core strength and endurance",
               "Improves overall abdominal muscle tone",
@@ -868,7 +868,7 @@
             "name": "Flutter Kicks",
             "image": "assets/img/flutter_kicks.jpg",
             "description": "Flutter kicks engage the lower abs and hip flexors, improving endurance and core stability.",
-            "videoLink": "https://www.youtube.com/watch?v=-b7yj5t2RU4",
+            "videoLink": "https://www.youtube.com/watch?v=ANVdMDaYRts&pp=ygUNRmx1dHRlciBLaWNrcw%3D%3D",
             "benefits": [
               "Strengthens lower abdominal muscles",
               "Improves hip flexibility",

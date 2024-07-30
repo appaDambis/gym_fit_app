@@ -122,7 +122,6 @@ class ExerciseDetailPage extends StatelessWidget {
 
   void _launchURL(BuildContext context, String url) async {
     if (url.isEmpty) {
-      // Show error message if URL is empty
       _showErrorDialog(
           context, 'Invalid URL', 'The video URL is not available.');
       return;
@@ -132,7 +131,6 @@ class ExerciseDetailPage extends StatelessWidget {
     if (await launchUrl(uri)) {
       await launchUrl(uri);
     } else {
-      // Show error message if URL cannot be launched
       _showErrorDialog(
           context, 'Could not launch URL', 'The URL could not be launched.');
     }

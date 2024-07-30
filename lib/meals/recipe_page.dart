@@ -13,7 +13,7 @@ class RecipesPage extends StatelessWidget {
         children: [
           Positioned.fill(
             child: Image.asset(
-              'assets/img/veg_recipe_2.jpg', // Replace with your background image
+              'assets/img/Egg Bhurji.jpg', // Replace with your background image
               fit: BoxFit.cover,
             ),
           ),
@@ -24,14 +24,14 @@ class RecipesPage extends StatelessWidget {
                 _buildCard(
                   context,
                   'Vegetarian',
-                  'assets/img/veg_recipe_3.jpg', // Replace with your vegetarian image
+                  'assets/img/Chickpea and Spinach Curry.jpeg', // Replace with your vegetarian image
                   RecipeListPage(isVegetarian: true),
                 ),
                 const SizedBox(height: 20),
                 _buildCard(
                   context,
                   'Non-Vegetarian',
-                  'assets/img/non_veg_recipe_2.jpg', // Replace with your non-vegetarian image
+                  'assets/img/Chicken Tikka.jpg', // Replace with your non-vegetarian image
                   RecipeListPage(isVegetarian: false),
                 ),
               ],

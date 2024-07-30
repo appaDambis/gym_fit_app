@@ -11,9 +11,9 @@ class WorkoutData {
   static List<String> images = [
     'assets/img/pull_ups.jpg',
     'assets/img/chest_dips.jpg',
-    'assets/img/barbell_front_raises.jpg',
+    'assets/img/shoulder_press.jpg',
     'assets/img/hammer_curls.jpg',
-    'assets/img/push_ups.jpg',
-    'assets/img/squats.jpg',
+    'assets/img/incline_bench_press.jpg',
+    'assets/img/lunges.jpg',
   ];
 }

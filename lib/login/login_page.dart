@@ -2,7 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:gym_app/login/reset_pass_page.dart';
 
-import '../home_page.dart';
+import '../home/home_page.dart';
 import 'register_page.dart';
 
 class LoginPage extends StatefulWidget {
